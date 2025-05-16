@@ -21,11 +21,6 @@ Data cleaning was straightforward. Once I understood what insights I wanted, the
 - Top 10 hashtags used with Fable
 - Breakdown of engagement by account type and verification status
 
-## Repository Structure
-- `scraped_data.csv` – Raw TikTok data
-- `cleaned_data.csv` – Final dataset
-- `fable_analysis.ipynb` – Python notebook
-- `requirements.txt` – Python dependencies
 
 ## Links
 - **Tableau Dashboard**: _[Add your Tableau link here]_
