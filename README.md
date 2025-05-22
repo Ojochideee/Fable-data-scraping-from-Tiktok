@@ -25,7 +25,7 @@ Data cleaning was straightforward. Once I understood what insights I wanted, the
 ## Links
 - **Tableau Dashboard**:  [Tableau Link](https://public.tableau.com/views/Fable_17479468375330/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- **Medium Article**: [Read the full post](https://medium.com/@your-username/fable-the-new-social-media-app-for-booktokers-abc123)
+- **Medium Article**: [Read the full post](https://medium.com/@anthoniaameh92/fable-the-new-social-media-app-for-booktokers-8094fd2e5f9b)
 ---
 
 Contact: anthoniaameh92@gmail.com
